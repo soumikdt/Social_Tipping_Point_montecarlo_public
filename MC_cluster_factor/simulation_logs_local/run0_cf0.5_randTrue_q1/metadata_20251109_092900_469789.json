@@ -1,0 +1,10 @@
+{
+  "run": 0,
+  "cluster_factor": 0.5,
+  "use_random": true,
+  "cluster": 1,
+  "n_nodes": 815,
+  "n_edges": 71,
+  "run_id": "20251109_092900_469789",
+  "timestamp": "2025-11-09T09:29:00.470390"
+}

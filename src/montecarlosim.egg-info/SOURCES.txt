@@ -1,0 +1,8 @@
+setup.py
+src/montecarlosim.egg-info/PKG-INFO
+src/montecarlosim.egg-info/SOURCES.txt
+src/montecarlosim.egg-info/dependency_links.txt
+src/montecarlosim.egg-info/requires.txt
+src/montecarlosim.egg-info/top_level.txt
+tests/test_agent_manipulator.py
+tests/test_network_analyzers.py
